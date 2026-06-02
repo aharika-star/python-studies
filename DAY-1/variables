@@ -1,0 +1,9 @@
+
+
+patient_name = "harika"
+patient_age = 25
+patient_disease = "Fever"
+
+print("Patient Name:", patient_name)
+print("Age:", patient_age)
+print("Disease:", patient_disease)
