@@ -1,9 +1,0 @@
-patient_name = "harika"
-patient_age = 25
-patient_gender = "female"
-patient_problem = "Fever"
-
-print("Patient Name:", patient_name)
-print("Age:", patient_age)
-print("Gender:", patient_gender)
-print("Problem:", patient_problem)
