@@ -1,0 +1,4 @@
+def hospital_registration():
+    print("Patient Registered Successfully")
+
+hospital_registration()
